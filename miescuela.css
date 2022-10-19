@@ -1,0 +1,16 @@
+#video{
+    width: 100%;
+    height: 500%;
+    border: none;
+}
+body{
+    text-align: center;
+}
+#vele{
+    position:absolute;
+    bottom:0;
+    background:linear-gradient(#5f92e3 0%,#9464e8 100%);
+    display:table;
+    width:100%;
+    height:100%;
+}
